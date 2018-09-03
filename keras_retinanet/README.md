@@ -4,7 +4,7 @@ Keras implementation of RetinaNet object detection as described in
 [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 by Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár.
 
-##### Object Detection:
+#### Object Detection:
 The RetinaNet used is a single, unified network composed of a resnet50 backbone network and two task-specific 
 subnetworks. The backbone is responsible for computing a convolution feature map over an entire input image and is 
 an off-the-self convolution network. The first subnet performs classification on the backbones output; the second 
@@ -14,7 +14,7 @@ number of classes and the size of the data set but was still able to land a bron
 competitors with some tweaks. The benchmark file is added for reference with the local score for predictions and 
 the parameter used. 
 
-##### Visual Relationship:
+#### Visual Relationship:
 I focused on Object detection and used a simple multi class linear regressor for relationship prediction. Unlike the 
 usual approach of using a LSTM, I experimented with a Random Forest Classifier and a Multi Output Classifier from 
 sklearn just to prove LSTM doesn't have much intelligence behind it and it was just a statistical tool. And the 
@@ -22,7 +22,7 @@ local classification scores proved I was right with giving me an accuracy greate
 relationship was based on how good my object detector performed I was not able to get a better score but with this 
 model I was able to land a bronze model (Top 30%) among 230 competitors. 
 
-##### Lessons Learned with Tips:
+#### Lessons Learned with Tips:
 1. Not to threshold the predictions and leave the low confidence predictions in the submission file. 
 Because of the way average precision works, you cannot be penalised for adding additional false positives 
 with a lower confidence than all your other predictions, however you can still improve your recall if you 
@@ -188,7 +188,7 @@ losses.py:
 
 ## Authors
 
-* **Mukesh Mithrakumar** - *Initial work* - [Keras_RetinaNet](https://github.com/mukeshmithrakumar/)
+* **Mukesh Mithrakumar** - *Initial work* - [Keras_RetinaNet](https://github.com/mukeshmithrakumar/Keras_RetinaNet)
 
 ## License
 
