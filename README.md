@@ -1,4 +1,5 @@
-# Keras RetinaNet ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+# Keras RetinaNet 
 
 Keras implementation of RetinaNet object detection as described in 
 [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
