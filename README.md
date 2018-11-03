@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)(https://opensource.org/licenses/MIT)]
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 # Keras RetinaNet 
 
 Keras implementation of RetinaNet object detection as described in 
