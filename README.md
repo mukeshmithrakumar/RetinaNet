@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
+
 Keras implementation of RetinaNet object detection as described in 
 [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 by Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár.
