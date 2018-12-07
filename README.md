@@ -6,6 +6,7 @@
 Keras implementation of RetinaNet object detection as described in 
 [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 by Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár.
+##### If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
 ##### Object Detection:
 The RetinaNet used is a single, unified network composed of a resnet50 backbone network and two task-specific 
