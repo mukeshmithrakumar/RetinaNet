@@ -6,7 +6,7 @@
 [![HitCount](http://hits.dwyl.io/mukeshmithrakumar/Keras_RetinaNet.svg)](http://hits.dwyl.io/mukeshmithrakumar/Keras_RetinaNet)
 ### If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
-Keras implementation of RetinaNet object detection as described in 
+Keras implementation of RetinaNet for object detection as described in 
 [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 by Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár.
 
