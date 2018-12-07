@@ -1,8 +1,8 @@
 # Keras RetinaNet 
-### If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+#### If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
 Keras implementation of RetinaNet object detection as described in 
 [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
