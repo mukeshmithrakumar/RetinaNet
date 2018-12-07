@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![Build Status](https://travis-ci.com/mukeshmithrakumar/Keras_RetinaNet.svg?branch=master)](https://travis-ci.com/mukeshmithrakumar/Keras_RetinaNet)
+[![HitCount](http://hits.dwyl.io/mukeshmithrakumar/Keras_RetinaNet.svg)](http://hits.dwyl.io/mukeshmithrakumar/Keras_RetinaNet)
 ### If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
 Keras implementation of RetinaNet object detection as described in 
