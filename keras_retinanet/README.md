@@ -188,7 +188,7 @@ losses.py:
 
 ## Authors
 
-* **Mukesh Mithrakumar** - *Initial work* - [Keras_RetinaNet](https://github.com/mukeshmithrakumar/Keras_RetinaNet)
+* **Mukesh Mithrakumar** - *Initial work* - [RetinaNet](https://github.com/mukeshmithrakumar/Keras_RetinaNet)
 
 ## License
 
