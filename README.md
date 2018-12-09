@@ -201,5 +201,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* Inspiration from Fizyr Keras RetinaNet
+* The RetinaNet model is based on Fizyr Keras RetinaNet
 
