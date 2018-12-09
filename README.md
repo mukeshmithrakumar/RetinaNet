@@ -1,4 +1,4 @@
-# Keras RetinaNet 
+# RetinaNet 
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
