@@ -14,7 +14,7 @@ setuptools.setup(
     description="Keras implementation of RetinaNet for object detection and visual relationship identification",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mukeshmithrakumar/keras_retinanet",
+    url="https://github.com/mukeshmithrakumar/RetinaNet",
     classifiers=(
         "Development Status :: 1.0.0.dev1 - Development release",
         "Intended Audience :: Developers",
