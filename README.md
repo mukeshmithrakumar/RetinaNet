@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="logo/keras-logo-2018-large-1200.png" /></p>
+<p align="center"><img width="40%" src="logo/share.png" /></p>
 
 --------------------------------------------------------------------------------
 # RetinaNet 
