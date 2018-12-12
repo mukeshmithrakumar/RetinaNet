@@ -1,3 +1,6 @@
+<p align="center"><img width="40%" src="logo/keras-logo-2018-large-1200.png" /></p>
+
+--------------------------------------------------------------------------------
 # RetinaNet 
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
