@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="logo/share.png" /></p>
+<p align="center"><img width="40%" src="logo/share2.jpg" /></p>
 
 --------------------------------------------------------------------------------
 # RetinaNet 
