@@ -9,7 +9,8 @@
 [![HitCount](http://hits.dwyl.io/mukeshmithrakumar/Keras_RetinaNet.svg)](http://hits.dwyl.io/mukeshmithrakumar/Keras_RetinaNet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=#0077B5)](https://www.linkedin.com/in/mukesh-mithrakumar/)
 
-### If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+### If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v: and you can reach me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=#0077B5)](https://www.linkedin.com/in/mukesh-mithrakumar/)
+
 
 Keras implementation of RetinaNet for object detection as described in 
 [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) by Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár. Please see [![Inline docs](http://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)]() (_Work in Progress_) for a comprehensive explanation about RetinaNet.
