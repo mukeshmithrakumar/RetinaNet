@@ -2,6 +2,8 @@
 
 <h1 align="center">Keras RetinaNet</h1>
 
+<img alt="Not Maintained" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
+
 <p align="center">
     <a href="https://github.com/ellerbrock/open-source-badges/">
         <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" alt="Open Source Love">
